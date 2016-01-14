@@ -1,0 +1,21 @@
+
+<style type="text/css">
+body { background:url(images/BG.jpg) no-repeat}
+* {margin:0;padding:0}
+#main {margin:50px  0px 0 150px}
+#main ul {width:960px;height:550px;list-style:none}
+#main li {border-left:1px solid #ccc;border-top:1px solid #ccc;height:40px;text-align:center;line-height:33px; float:left;}
+#main li.b {border-bottom:1px solid #ccc ;width:160px;}
+#main li.r {border-right:1px solid #ccc}
+#main li.c {width:793px; text-align:left}
+#main li.d  { width:955px; background:#323C64; height:88px;}
+#main li.x { width:160px}
+#main li.y { width:235px}
+#main li.crm { width:955px; background:write; height:45px; background-image:url(images/crm-bg.png)}
+
+a:link {  color: #666666;text-decoration: none} 
+a:visited { color: #0000FF; text-decoration: none}
+a:active {color:green;text-decoration: none;} 
+a:hover { color: #000099;text-decoration: underline } 
+
+</style>
